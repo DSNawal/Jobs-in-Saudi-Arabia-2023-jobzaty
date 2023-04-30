@@ -8,7 +8,7 @@ This dataset consists of 7 columns and 930 rows.
 This dataset aims to help analyze the job opportunities in Saudi Arabia.
 
 
-## dataset description
+## Columns Names
 
 •	الوظيفة
 
