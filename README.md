@@ -11,10 +11,16 @@ This dataset aims to help analyze the job opportunities in Saudi Arabia.
 ## dataset description
 
 •	الوظيفة
+
 •	اسم الشركة
+
 •	المدينة
+
 •	المستوى الوظيفي
+
 •	الخبرة
+
 •	التاريخ
+
 •	الرابط
 
